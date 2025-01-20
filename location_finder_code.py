@@ -76,7 +76,7 @@ def main():
 
     # Get user input
     print("\n=== Location Finder ===")
-    region = input("\nEnter the region (e.g., 'Rajanagaram Mandal'): ")
+    region = input("\nEnter the region (e.g., 'Kadiyam Mandal'): ")
     
     print("\nEnter location types (e.g., 'Sai Baba Temple', 'Medical Store')")
     print("Press Enter twice when done")
